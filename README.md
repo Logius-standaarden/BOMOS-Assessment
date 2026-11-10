@@ -1,21 +1,17 @@
-Beheer je een standaard of afsprakenstelsel? Of ga je er een ontwikkelen? Voer zelfstandig een BOMOS-assessment uit.
+## Het assessment uitvoeren met een LLM 
 
-Een self-assessment is een interactieve manier om je eigen organisatie een spiegel voor te houden op welke vlakken je het beheer al op orde is of verder kan verbeteren.
+- Download de bestanden op deze pagina. 
 
-## Hoe gebruik je het self-assessment?
+- Gebruik een large language model (LLM). De kwaliteit van het assessment is afhankelijk van het LLM: de huidige moderne modellen leveren hierbij de beste resultaten.
 
-Een BOMOS self-assessment kan zelfstandig uitvoeren maar de echte waarde van dit assessment is het gebruiken als input voor een sessie met een groep. 
+- Geef het model de context. Upload alle documenten uit de map dataset-assessment.
 
-Doe je het assessment alleen? Dat werkt als volgt: gebruikt een LLM model naar keuze en gebruik de data en de prompt instructie voor het assessment die in deze repository staan. Hiermee creëer je een digitale adviseur waarmee je samen het assessment doorloopt en die je van advies voorziet. Deze werkwijze vervangt de regelhulp voor BOMOS.
+- Start het assessment. Kopieer de volledige tekst uit _prompt-assessment.md, plak die in de chat van het LLM. 
 
-Daarnaast is er de klassieke assessment te gebruiken door het invullen een spreadsheet (deze sheet staat in de map _self-assessmentoffline_). Aangezien je hier niet direct feedback krijgt is deze manier vooral geschikt om als groep en onder begeleiding van een BOMOS-deskundige een assessment uit te voeren. De input en het gesprek daarover vormt dan de basis om samen met stakeholders terug te blikken en de prioriteiten voor de komende periode te bepalen. Logius kan hierbij ondersteunen.
+- Controleer de uitkomst. Een LLM kan fouten maken. Beschouw het resultaat als hulpmiddel.
 
-## Instructie alleen aan de slag
+- Let op dat je rekening houdt met informatieveiligheid en privacy met het gebruik van een LLM. Gebruik  geen geheime of persoonlijke gegevens in je antwoorden. 
 
-Gebruik een LLM naar keuze die RAG ondersteunt (dat betekent dat je bestanden kan toevoegen aan een ruimte die de LLM dan gebruikt bij chats). De kwaliteit van het assessment is afhankelijk van het LLM model: de huidige moderne modellen leveren hierbij de beste resultaten.
+## Assessement uitvoeren met een offline vragenlijst
 
-Upload uit de documenten in de map dataset-assessment toe. Hiermee geef je de LLM de context voor het assessment. Een andere optie is om de url van deze map toe te voegen zodat de LLM ze op die manier kan uitlezen.
-
-Als dat is gelukt: kopieer en plak de prompt uit het bestand _prompt-assessment.md_ en start het assessment.
-
-Let op dat je rekening houdt met informatieveiligheid en privacy met het gebruik van een LLM. Gebruik daarom geen geheime of persoonlijke gegevens in je antwoorden. Hou er vervolgens rekening mee dat een LLM fouten maakt.
+Download de bestanden en open de spreadsheet met vragen voor standaardenbeheer of stelselbeheer. Je krijgt hier niet direct feedback: die organiseer je zelf door de resultaten met elkaar te bespreken. Logius gebruikt deze werkwijze om een assessment als groep uit te voeren. De input en het gesprek daarover vormen de basis om samen met stakeholders terug te blikken en de prioriteiten voor de komende periode te bepalen. Logius kan je hierbij ondersteunen.
