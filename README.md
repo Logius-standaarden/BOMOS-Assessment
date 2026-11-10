@@ -6,7 +6,7 @@
 
 - Geef het model de context. Upload alle documenten uit de map dataset-assessment.
 
-- Start het assessment. Kopieer de volledige tekst uit _prompt-assessment.md, plak die in de chat van het LLM. 
+- Start het assessment. Kopieer de volledige tekst uit _prompt-assessment.md_, plak die in de chat van het LLM. 
 
 - Controleer de uitkomst. Een LLM kan fouten maken. Beschouw het resultaat als hulpmiddel.
 
