@@ -16,13 +16,13 @@ You can do a BOMOS self-assessment on your own. Its real value, though, comes fr
 
 Going solo? Pick a large language model (LLM) and feed it the data and the prompt instructions in this repository. The result is a digital adviser that takes you through the assessment and offers guidance along the way. 
 
-There is also an offline version: this is a questionaire (spreadsheet), found in the folder self-assessmentoffline. It gives no instant feedback, so it works best in a group, led by a BOMOS expert. The answers, and the arguments they provoke, give stakeholders a basis for looking back and for deciding what to tackle next. Logius can help.
+There is also an offline version: this is a questionnaire (spreadsheet), found in the folder self-assessment-offline. It gives no instant feedback, so it works best in a group, led by a BOMOS expert. The answers, and the arguments they provoke, give stakeholders a basis for looking back and for deciding what to tackle next. Logius can help.
 
 ## Instructions for getting started on your own
 
 Choose an LLM that supports retrieval-augmented generation (RAG), which lets you attach files that the model consults during a chat. The quality of the assessment depends on the  model: the latest ones do best.
 
-First, upload the documents in the folder dataset-assessment. These give the model its context. Alternatively, give it the folder's URL and let it read the files itself.
+First, upload the documents in the folder dataset-assessement. These give the model its context. Alternatively, give it the folder's URL and let it read the files itself.
 
 Then copy the prompt from prompt-assessment.md, paste it in and begin.
 
