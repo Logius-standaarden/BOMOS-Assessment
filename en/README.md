@@ -2,6 +2,7 @@
 title: BOMOS self-assessment
 description: Download the files for carrying out a BOMOS assessment.
 lang: en
+permalink: /en/
 ---
 
 [Nederlandse versie](../)
