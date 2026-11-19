@@ -1,0 +1,1 @@
+The sheets are protected. If you want to make changes to these sheets yourself and a password is needed: the password is `BOMOS`. The calculation formulas are in the hidden tabs. If you want to add new questions for your own organisation, you will also need to adjust these hidden formulas.
