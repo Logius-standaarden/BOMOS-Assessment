@@ -1,4 +1,10 @@
-# BOMOS self-assessment
+---
+title: BOMOS self-assessment
+description: Download the files for carrying out a BOMOS assessment.
+lang: en
+---
+
+[Nederlandse versie](../)
 
 Do you manage a standard or a trust framework? Or are you about to develop one? You can carry out a BOMOS assessment on your own.
 
